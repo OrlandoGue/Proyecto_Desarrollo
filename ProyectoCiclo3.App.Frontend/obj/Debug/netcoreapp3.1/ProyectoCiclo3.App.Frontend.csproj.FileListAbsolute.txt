@@ -185,3 +185,8 @@ C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\
 C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\web.config
+C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.deps.json
+C:\Users\gw0003\Desktop\Proyecto\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.runtimeconfig.json
